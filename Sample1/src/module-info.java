@@ -1,2 +1,2 @@
-module sample1 {
+module Sample1 {
 }
